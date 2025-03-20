@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name ReSDMAC)(type Legacy)(uri ${KIPRJMOD}/ReSDMAC.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "ReSDMAC")(type "Legacy")(uri "${KIPRJMOD}/ReSDMAC.lib")(options "")(descr ""))
+  (lib (name "ReSDMAC-rescue")(type "KiCad")(uri "${KIPRJMOD}/ReSDMAC-rescue.kicad_sym")(options "")(descr ""))
 )
